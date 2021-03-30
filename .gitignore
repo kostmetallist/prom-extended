@@ -1,0 +1,6 @@
+bin/
+bindist/
+classes/
+dist/
+doc/
+*.class
